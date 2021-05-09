@@ -41,6 +41,5 @@ png: ![modelos_servicio_nube](https://docs.microsoft.com/es-es/learn/azure-funda
 ![servicios] (C:/Users/glori/Documents/innovaccion/acordeon/servicios.jpg)
 
 ## Modelos de implementación de la nube <h2>
-![implementacion nube](C:/Users/glori/Documents/innovaccion/acordeon/modelos_implementacion_nube.jpg)
-![diagrama servicios](C:/Users/glori/Documents/innovaccion/acordeon/serviciosdiag.jpg)
-# 1.3 Descripción de los componentes principales de la arquitectura de Azure <h1>
+![implementacion nube](modelos_implementacion_nube.jpg)
+![diagrama servicios](serviciosdiag.jpg)
